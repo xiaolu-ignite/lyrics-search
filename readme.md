@@ -1,3 +1,4 @@
+Live link here: https://xiaolu-ignite.github.io/lyrics-search/
 ## LyricsSearch App
 
 Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
